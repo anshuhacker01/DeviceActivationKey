@@ -16,5 +16,11 @@
         "key": "ANSHU",
         "expirydate": "10-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f79dcc90a2f96951",
+        "key": "ANSHU",
+        "expirydate": "10-08-2025",
+        "Allowoffline": false
     }
 ]
