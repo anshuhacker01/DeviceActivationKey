@@ -22,5 +22,11 @@
         "key": "KEY-2",
         "expirydate": "15-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "",
+        "key": "KEY-3",
+        "expirydate": "26-08-2025",
+        "Allowoffline": false
     }
 ]
