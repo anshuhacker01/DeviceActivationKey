@@ -16,11 +16,5 @@
         "key": "KEY-1",
         "expirydate": "01-02-2026",
         "Allowoffline": false
-    },
-    {
-        "device_id": "363a14ba97fb3a68",
-        "key": "KEY-2",
-        "expirydate": "30-01-2026",
-        "Allowoffline": false
     }
 ]
